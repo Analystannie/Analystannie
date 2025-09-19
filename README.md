@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Analystannie
+- 👋 Hi, I’m @queenannie
 - 👀 I’m interested in business/financial/data Analysis
+- 👀 I’m interested in full stack webapp dev
 - 🌱 I’m currently working on projects
 - 💞️ I’m looking to collaborate on individuals with similar skillset, Businesses and companies that need my skillset
 - 📫 How to reach me @hello.queenannie@gmail.com
